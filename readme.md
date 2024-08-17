@@ -10,7 +10,7 @@
 - 🎓 &nbsp; Studying Computer Science and Engineering.
 - 💼 &nbsp; I’m currently working on MERN projects.
 - 🌱 &nbsp; Learning more about Fullstack Development & UI/UX Designing.
-- ✍️ &nbsp; Pursuing Competitive Programming as a hobby.
+- ✍️ &nbsp; Pursuing Competitive Programming and UI/Ux designing as a hobby.
 - 💬 &nbsp; Ask me about MERN stack
 - 📫 &nbsp; How to reach me: raishambhavi1902@gmail.com
 </div> 
