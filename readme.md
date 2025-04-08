@@ -12,7 +12,7 @@
 - 🌱 &nbsp; Learning more about Fullstack Development & UI/UX Designing.
 - ✍️ &nbsp; Pursuing Competitive Programming and UI/UX designing as a hobby.
 - 💬 &nbsp; Ask me about MERN stack
-- 📫 &nbsp; How to reach me: raishambhavi1902@gmail.com
+- 📫 &nbsp; How to reach me: shambhavirai268@gmail.com
 </div> 
 </div>
 
